@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jony-007
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m a Web Developer
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me +8801940347786
 
 <!---
